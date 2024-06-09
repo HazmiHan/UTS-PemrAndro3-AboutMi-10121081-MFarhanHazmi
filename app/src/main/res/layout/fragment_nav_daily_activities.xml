@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     tools:context=".nav_daily_activities">
 
-// 9/6/2024 - 10121081 - M Farhan Hazmi - Pemrograman Android 3
+<!--// 9/6/2024 - 10121081 - M Farhan Hazmi - Pemrograman Android 3  -->
     
     <!-- TODO: Update blank fragment layout -->
     <TextView
