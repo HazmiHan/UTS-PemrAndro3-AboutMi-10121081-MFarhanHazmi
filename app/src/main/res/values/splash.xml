@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--// 9/6/2024 - 10121081 - M Farhan Hazmi - Pemrograman Android 3  -->
 <resources>
     <style name="Theme.AboutMi.Splash" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">@color/antiflashwhite</item>
