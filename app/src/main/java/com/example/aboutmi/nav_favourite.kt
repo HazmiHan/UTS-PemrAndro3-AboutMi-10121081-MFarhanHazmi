@@ -11,6 +11,8 @@ import android.view.ViewGroup
 private const val ARG_PARAM1 = "param1"
 private const val ARG_PARAM2 = "param2"
 
+// 9/6/2024 - 10121081 - M Farhan Hazmi - Pemrograman Android 3
+
 /**
  * A simple [Fragment] subclass.
  * Use the [nav_favourite.newInstance] factory method to
