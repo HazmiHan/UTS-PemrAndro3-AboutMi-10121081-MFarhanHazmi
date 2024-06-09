@@ -5,6 +5,8 @@
     android:id="@+id/bottom_nav"
     app:startDestination="@id/nav_home">
 
+<!--// 9/6/2024 - 10121081 - M Farhan Hazmi - Pemrograman Android 3  -->
+    
     <fragment
         android:id="@+id/nav_home"
         android:name="com.example.aboutmi.nav_home"
