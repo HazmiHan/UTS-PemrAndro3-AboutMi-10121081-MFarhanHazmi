@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--// 9/6/2024 - 10121081 - M Farhan Hazmi - Pemrograman Android 3  -->
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
